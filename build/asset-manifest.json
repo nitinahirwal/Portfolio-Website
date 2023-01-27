@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd209d65.css",
+    "main.js": "/static/js/main.414e99ec.js",
+    "static/media/profile.jpg": "/static/media/profile.04ff7ccc413b2cdb8248.jpg",
+    "static/media/about.jpg": "/static/media/about.0b7c4eaed650c072e443.jpg",
+    "static/media/Nitin Ahirwal Cv.pdf": "/static/media/Nitin Ahirwal Cv.afcf01b9ec414e60566c.pdf",
+    "index.html": "/index.html",
+    "main.cd209d65.css.map": "/static/css/main.cd209d65.css.map",
+    "main.414e99ec.js.map": "/static/js/main.414e99ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd209d65.css",
+    "static/js/main.414e99ec.js"
+  ]
+}
